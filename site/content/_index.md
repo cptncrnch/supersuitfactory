@@ -1,20 +1,22 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Super Suit Factory"
+subtitle: Super Suits, Super Fast
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: We Make Suits -- Super Suits
+    text: "Super Suit Factory makes custom specialty costumes for award-winning feature films, popular TV and streaming shows, and anything else that calls for bringing characters to life!"
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Super Suit Factory designs and fabricates the best award-winning specialty costumes in the business."
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: img/manniquins.jpg
+      text: "Tailored Fit Designs: We bring envisioned characters to life with every customized body suit. Tailored fits ensure that actors immerse themselves into their character and are never distracted by their costume."
+    - image: /img/vanessa.jpg
+      text: "Professional Craftmanship: With years of experience in making patterns and samples, suit draping and fitting, foam fabricating, and sewing, the attention to detail shows in the comfort and durability of our body suits."
+    - image: /img/supersuit.jpg
+		 text: "Super Fast: Don't wait for long turnarounds when you can get the costumes you need fast with our specialty off-the-shelf suits."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Bottom Line
+    text: With over 15 years of costume fabrication experience, Vanessa Lee has worked on some of the most famous superhero costumes and character body suits for iconic actors. Today, specialty costumes from Super Suit Factory are the most sought after body suits by major motion picture and television studios.
 ---
 
